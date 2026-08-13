@@ -1,0 +1,219 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Doctrine Database Migrations Library - Official",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-19T05:26:15Z",
+            "owner": "doctrine",
+            "repo": "migrations",
+            "stars": 4766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine2 Behavioral Extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T17:08:40Z",
+            "owner": "doctrine-extensions",
+            "repo": "DoctrineExtensions",
+            "stars": 4141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine2 Behaviors",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-23T08:13:42Z",
+            "owner": "KnpLabs",
+            "repo": "DoctrineBehaviors",
+            "stars": 923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine UUID",
+          "description": "Allow the use of a ramsey/uuid UUID as Doctrine field type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-26T16:42:17Z",
+            "owner": "ramsey",
+            "repo": "uuid-doctrine",
+            "stars": 904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQL enhancements for Doctrine2",
+          "description": "Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T21:43:04Z",
+            "owner": "martin-georgiev",
+            "repo": "postgresql-for-doctrine",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine Specification",
+          "description": "Gives you a new way for writing queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-28T15:12:21Z",
+            "owner": "Happyr",
+            "repo": "Doctrine-Specification",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine Spesification",
+          "description": "This library gives you a new way for writing queries. Using the Specification pattern you will get small Specification classes that are highly reusable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-28T15:12:21Z",
+            "owner": "Happyr",
+            "repo": "Doctrine-Specification",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine2 Spatial",
+          "description": "Multi-platform support for spatial types and functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-02T22:24:34Z",
+            "owner": "creof",
+            "repo": "doctrine2-spatial",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonata Doctrine Extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-03T03:10:14Z",
+            "owner": "sonata-project",
+            "repo": "sonata-doctrine-extensions",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine DBAL Postgresql",
+          "description": "Add JSON query support to Doctrine DBAL and DQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-10T10:23:19Z",
+            "owner": "opsway",
+            "repo": "doctrine-dbal-postgresql",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DDD Embeddables",
+          "description": "A collection of reusable value objects written in PHP and targeting versions 5.6 and above.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-10-10T21:20:04Z",
+            "owner": "biberlabs",
+            "repo": "ddd-embeddables",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine Encrypted Column",
+          "description": "Provides a secure way to encrypt data in doctrine. Framework agnostic, Libsodium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-09-29T21:25:12Z",
+            "owner": "carnage",
+            "repo": "doctrine-encrypted-column",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctrine Point Type",
+          "description": "POINT as Doctrine field type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-06-05T07:12:17Z",
+            "owner": "vinyvicente",
+            "repo": "doctrine-point-type",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Integration of Consistence library with Doctrine ORM",
+          "description": "This library provides integration of Consistence value objects for Doctrine ORM so that you can use them in your entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-30T13:14:17Z",
+            "owner": "consistence",
+            "repo": "consistence-doctrine",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Related Projects"
+    },
+    {
+      "description": "To the extent possible under law, Biberlabs has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:20.829Z",
+    "original_repository": "biberlabs/awesome-doctrine",
+    "original_repository_sha": "6a6df506f406e5950f5fa3e5bbf975ba03cb6c6c",
+    "enhanced_repository": "enhansome/enhansome-doctrine",
+    "enhanced_repository_description": null,
+    "title": "Awesome Doctrine with stars"
+  }
+}
