@@ -14,7 +14,7 @@
             "last_commit": "2026-06-19T05:26:15Z",
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4766
+            "stars": 4767
           }
         },
         {
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:16:20.829Z",
+    "last_updated": "2026-08-13T18:26:33.980Z",
     "original_repository": "biberlabs/awesome-doctrine",
     "original_repository_sha": "6a6df506f406e5950f5fa3e5bbf975ba03cb6c6c",
     "enhanced_repository": "enhansome/enhansome-doctrine",
