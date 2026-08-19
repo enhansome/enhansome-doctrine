@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576099,
             "language": "PHP",
             "last_commit": "2026-06-19T05:26:15Z",
             "owner": "doctrine",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 885517,
             "language": "PHP",
             "last_commit": "2026-08-10T17:08:40Z",
             "owner": "doctrine-extensions",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3671952,
             "language": "PHP",
             "last_commit": "2026-01-23T08:13:42Z",
             "owner": "KnpLabs",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37828623,
             "language": "PHP",
             "last_commit": "2024-08-26T16:42:17Z",
             "owner": "ramsey",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69656744,
             "language": "PHP",
             "last_commit": "2026-08-10T21:43:04Z",
             "owner": "martin-georgiev",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21936868,
             "language": "PHP",
             "last_commit": "2026-07-28T15:12:21Z",
             "owner": "Happyr",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21936868,
             "language": "PHP",
             "last_commit": "2026-07-28T15:12:21Z",
             "owner": "Happyr",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6193323,
             "language": "PHP",
             "last_commit": "2026-07-02T22:24:34Z",
             "owner": "creof",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2318793,
             "language": "PHP",
             "last_commit": "2026-05-03T03:10:14Z",
             "owner": "sonata-project",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33421292,
             "language": "PHP",
             "last_commit": "2025-01-10T10:23:19Z",
             "owner": "opsway",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68447110,
             "language": "PHP",
             "last_commit": "2022-10-10T21:20:04Z",
             "owner": "biberlabs",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67874538,
             "language": "PHP",
             "last_commit": "2017-09-29T21:25:12Z",
             "owner": "carnage",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73493526,
             "language": "PHP",
             "last_commit": "2025-06-05T07:12:17Z",
             "owner": "vinyvicente",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78843547,
             "language": "PHP",
             "last_commit": "2025-04-30T13:14:17Z",
             "owner": "consistence",
@@ -201,16 +215,12 @@
         }
       ],
       "title": "Related Projects"
-    },
-    {
-      "description": "To the extent possible under law, Biberlabs has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:54:09.200Z",
+    "last_updated": "2026-08-19T12:23:56.860Z",
     "original_repository": "biberlabs/awesome-doctrine",
+    "original_repository_id": 23117607,
     "original_repository_sha": "6a6df506f406e5950f5fa3e5bbf975ba03cb6c6c",
     "enhanced_repository": "enhansome/enhansome-doctrine",
     "enhanced_repository_description": null,
