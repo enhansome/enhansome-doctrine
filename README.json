@@ -15,7 +15,7 @@
             "last_commit": "2026-06-19T05:26:15Z",
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4767
+            "stars": 4768
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-08-26T16:42:17Z",
             "owner": "ramsey",
             "repo": "uuid-doctrine",
-            "stars": 904
+            "stars": 903
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:50:02.265Z",
+    "last_updated": "2026-08-20T17:56:06.384Z",
     "original_repository": "biberlabs/awesome-doctrine",
     "original_repository_id": 23117607,
     "original_repository_sha": "6a6df506f406e5950f5fa3e5bbf975ba03cb6c6c",
