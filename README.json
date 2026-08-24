@@ -75,7 +75,7 @@
             "last_commit": "2026-08-10T21:43:04Z",
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
-            "stars": 456
+            "stars": 457
           }
         },
         {
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:44:58.074Z",
+    "last_updated": "2026-08-24T14:30:05.058Z",
     "original_repository": "biberlabs/awesome-doctrine",
     "original_repository_id": 23117607,
     "original_repository_sha": "6a6df506f406e5950f5fa3e5bbf975ba03cb6c6c",
