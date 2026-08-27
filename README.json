@@ -218,9 +218,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:24:39.040Z",
-    "original_repository": "biberlabs/awesome-doctrine",
-    "original_repository_id": 23117607,
+    "last_updated": "2026-08-27T11:38:33.576Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 23117607,
+      "language": null,
+      "last_commit": "2020-06-23T23:00:57Z",
+      "owner": "biberlabs",
+      "repo": "awesome-doctrine",
+      "stars": 269
+    },
     "original_repository_sha": "6a6df506f406e5950f5fa3e5bbf975ba03cb6c6c",
     "enhanced_repository": "enhansome/enhansome-doctrine",
     "enhanced_repository_description": null,
