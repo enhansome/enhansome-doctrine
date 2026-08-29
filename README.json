@@ -16,7 +16,8 @@
             "owner": "doctrine",
             "repo": "migrations",
             "stars": 4768
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
             "stars": 4139
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "KnpLabs",
             "repo": "DoctrineBehaviors",
             "stars": 923
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "ramsey",
             "repo": "uuid-doctrine",
             "stars": 903
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Happyr",
             "repo": "Doctrine-Specification",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Happyr",
             "repo": "Doctrine-Specification",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "creof",
             "repo": "doctrine2-spatial",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "sonata-project",
             "repo": "sonata-doctrine-extensions",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "opsway",
             "repo": "doctrine-dbal-postgresql",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "biberlabs",
             "repo": "ddd-embeddables",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "carnage",
             "repo": "doctrine-encrypted-column",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "vinyvicente",
             "repo": "doctrine-point-type",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         },
         {
           "node_type": "item",
@@ -211,14 +224,15 @@
             "owner": "consistence",
             "repo": "consistence-doctrine",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:05:10.211Z"
         }
       ],
       "title": "Related Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:35:45.985Z",
+    "last_updated": "2026-08-29T01:05:10.211Z",
     "original_repository_info": {
       "archived": false,
       "id": 23117607,
