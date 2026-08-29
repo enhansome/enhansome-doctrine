@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doctrine Database Migrations Library",
+            "homepage": "https://www.doctrine-project.org/projects/migrations.html",
             "id": 576099,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-19T05:26:15Z",
+            "open_issues": 138,
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4768
+            "stars": 4768,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable",
+            "homepage": null,
             "id": 885517,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-10T17:08:40Z",
+            "open_issues": 55,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
-            "stars": 4139
+            "stars": 4139,
+            "topics": [
+              "doctrine",
+              "doctrine-odm-mongodb",
+              "doctrine-orm",
+              "nested-sets",
+              "php"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -42,12 +58,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doctrine2 behavior traits that help handling Blameable, Loggable, Sluggable, SoftDeletable, Uuidable, Timestampable, Translatable, Tree behavior",
+            "homepage": "http://knplabs.com",
             "id": 3671952,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-01-23T08:13:42Z",
+            "open_issues": 41,
             "owner": "KnpLabs",
             "repo": "DoctrineBehaviors",
-            "stars": 923
+            "stars": 923,
+            "topics": [
+              "behavior",
+              "doctrine",
+              "doctrine2",
+              "orm",
+              "php",
+              "trait"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -58,12 +86,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄️ 🗄️ Allow the use of a ramsey/uuid UUID as Doctrine field type.",
+            "homepage": null,
             "id": 37828623,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-08-26T16:42:17Z",
+            "open_issues": 11,
             "owner": "ramsey",
             "repo": "uuid-doctrine",
-            "stars": 903
+            "stars": 903,
+            "topics": [
+              "dbal",
+              "doctrine",
+              "guid",
+              "identifiers",
+              "php",
+              "php7",
+              "php8",
+              "uuid"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -74,12 +116,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extends Doctrine with native PostgreSQL support for arrays, JSONB, ranges, PostGIS geometries, text search, and 100+ PostgreSQL-specific functions.",
+            "homepage": "https://packagist.org/packages/martin-georgiev/postgresql-for-doctrine",
             "id": 69656744,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-10T21:43:04Z",
+            "open_issues": 10,
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
-            "stars": 457
+            "stars": 457,
+            "topics": [
+              "arrays",
+              "doctrine",
+              "doctrine-dbal",
+              "doctrine-orm",
+              "doctrine-types",
+              "json-data",
+              "jsonb",
+              "ltree",
+              "php",
+              "postgis",
+              "postgis-geometry",
+              "postgres",
+              "postgres-extension",
+              "postgresql",
+              "range",
+              "spatial",
+              "uuid"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -90,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library gives you a new way for writing queries. Using the Specification pattern you will get small Specification classes that are highly reusable.",
+            "homepage": null,
             "id": 21936868,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-28T15:12:21Z",
+            "open_issues": 17,
             "owner": "Happyr",
             "repo": "Doctrine-Specification",
-            "stars": 450
+            "stars": 450,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -106,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library gives you a new way for writing queries. Using the Specification pattern you will get small Specification classes that are highly reusable.",
+            "homepage": null,
             "id": 21936868,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-28T15:12:21Z",
+            "open_issues": 17,
             "owner": "Happyr",
             "repo": "Doctrine-Specification",
-            "stars": 450
+            "stars": 450,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -122,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doctrine2 multi-platform support for spatial types and functions.",
+            "homepage": null,
             "id": 6193323,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-02T22:24:34Z",
+            "open_issues": 52,
             "owner": "creof",
             "repo": "doctrine2-spatial",
-            "stars": 273
+            "stars": 273,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -138,12 +218,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Doctrine2 behavioral extensions",
+            "homepage": "https://github.com/sonata-project/sonata-doctrine-extensions",
             "id": 2318793,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-05-03T03:10:14Z",
+            "open_issues": 1,
             "owner": "sonata-project",
             "repo": "sonata-doctrine-extensions",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "doctrine",
+              "doctrine2",
+              "json",
+              "php",
+              "sonata",
+              "symfony"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -154,12 +246,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add JSON query support to Doctrine DBAL and DQL",
+            "homepage": null,
             "id": 33421292,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-01-10T10:23:19Z",
+            "open_issues": 9,
             "owner": "opsway",
             "repo": "doctrine-dbal-postgresql",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "dbal",
+              "doctrine",
+              "opsway-opensource",
+              "php",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -170,12 +273,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of reusable value objects written in PHP and targeting version 8.0 and above.",
+            "homepage": null,
             "id": 68447110,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-10-10T21:20:04Z",
+            "open_issues": 3,
             "owner": "biberlabs",
             "repo": "ddd-embeddables",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "ddd-embeddables",
+              "doctrine-orm",
+              "domain-driven-design",
+              "embeddable",
+              "php"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -186,12 +300,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a secure way to encrypt data in doctrine. Framework agnostic, Libsodium. ",
+            "homepage": null,
             "id": 67874538,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-09-29T21:25:12Z",
+            "open_issues": 3,
             "owner": "carnage",
             "repo": "doctrine-encrypted-column",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "doctrine",
+              "encrypted-data"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -202,12 +324,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Point Type Doctrine",
+            "homepage": null,
             "id": 73493526,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-06-05T07:12:17Z",
+            "open_issues": 1,
             "owner": "vinyvicente",
             "repo": "doctrine-point-type",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "doctrine",
+              "point",
+              "type"
+            ]
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         },
@@ -218,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integration of Consistence library with Doctrine ORM",
+            "homepage": null,
             "id": 78843547,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-30T13:14:17Z",
+            "open_issues": 3,
             "owner": "consistence",
             "repo": "consistence-doctrine",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
         }
@@ -232,15 +368,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:05:10.211Z",
+    "last_updated": "2026-08-29T04:47:45.772Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
+      "homepage": "http://www.doctrine-project.org/",
       "id": 23117607,
       "language": null,
+      "license": null,
       "last_commit": "2020-06-23T23:00:57Z",
+      "open_issues": 0,
       "owner": "biberlabs",
       "repo": "awesome-doctrine",
-      "stars": 269
+      "stars": 269,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "doctrine",
+        "doctrine-orm",
+        "doctrine2"
+      ]
     },
     "original_repository_sha": "6a6df506f406e5950f5fa3e5bbf975ba03cb6c6c",
     "enhanced_repository": "enhansome/enhansome-doctrine",
