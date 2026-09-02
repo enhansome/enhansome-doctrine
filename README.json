@@ -40,7 +40,7 @@
             "open_issues": 57,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
-            "stars": 4139,
+            "stars": 4140,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:01:48.468Z",
+    "last_updated": "2026-09-02T19:58:51.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
