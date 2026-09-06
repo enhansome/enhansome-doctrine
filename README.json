@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4768,
+            "stars": 4766,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -67,7 +67,7 @@
             "open_issues": 41,
             "owner": "KnpLabs",
             "repo": "DoctrineBehaviors",
-            "stars": 923,
+            "stars": 921,
             "topics": [
               "behavior",
               "doctrine",
@@ -121,11 +121,11 @@
             "id": 69656744,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-10T21:43:04Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-06T15:27:18Z",
+            "open_issues": 12,
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
-            "stars": 457,
+            "stars": 456,
             "topics": [
               "arrays",
               "doctrine",
@@ -227,7 +227,7 @@
             "open_issues": 1,
             "owner": "sonata-project",
             "repo": "sonata-doctrine-extensions",
-            "stars": 268,
+            "stars": 266,
             "topics": [
               "doctrine",
               "doctrine2",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:14:07.430Z",
+    "last_updated": "2026-09-06T19:23:45.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",

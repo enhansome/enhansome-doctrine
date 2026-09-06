@@ -58,15 +58,15 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Related Projects
 
-* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,768 | 🐛 138 | 🌐 PHP | 📅 2026-06-19
+* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,766 | 🐛 138 | 🌐 PHP | 📅 2026-06-19
 * [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions) ⭐ 4,138 | 🐛 57 | 🌐 PHP | 📅 2026-08-31
-* [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors) ⭐ 923 | 🐛 41 | 🌐 PHP | 📅 2026-01-23
+* [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors) ⭐ 921 | 🐛 41 | 🌐 PHP | 📅 2026-01-23
 * [Doctrine UUID](https://github.com/ramsey/uuid-doctrine) ⭐ 903 | 🐛 11 | 🌐 PHP | 📅 2024-08-26 - Allow the use of a ramsey/uuid UUID as Doctrine field type.
-* [PostgreSQL enhancements for Doctrine2](https://github.com/martin-georgiev/postgresql-for-doctrine) ⭐ 457 | 🐛 10 | 🌐 PHP | 📅 2026-08-10 - Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
+* [PostgreSQL enhancements for Doctrine2](https://github.com/martin-georgiev/postgresql-for-doctrine) ⭐ 456 | 🐛 12 | 🌐 PHP | 📅 2026-09-06 - Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
 * [Doctrine Specification](https://github.com/Happyr/Doctrine-Specification) ⭐ 450 | 🐛 17 | 🌐 PHP | 📅 2026-07-28 - Gives you a new way for writing queries
 * [Doctrine Spesification](https://github.com/Happyr/Doctrine-Specification) ⭐ 450 | 🐛 17 | 🌐 PHP | 📅 2026-07-28 - This library gives you a new way for writing queries. Using the Specification pattern you will get small Specification classes that are highly reusable.
 * [Doctrine2 Spatial](https://github.com/creof/doctrine2-spatial) ⭐ 273 | 🐛 52 | 🌐 PHP | 📅 2026-07-02 - Multi-platform support for spatial types and functions
-* [Sonata Doctrine Extensions](https://github.com/sonata-project/sonata-doctrine-extensions) ⭐ 268 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
+* [Sonata Doctrine Extensions](https://github.com/sonata-project/sonata-doctrine-extensions) ⭐ 266 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
 * [Doctrine DBAL Postgresql](https://github.com/opsway/doctrine-dbal-postgresql) ⭐ 162 | 🐛 9 | 🌐 PHP | 📅 2025-01-10 - Add JSON query support to Doctrine DBAL and DQL
 * [DDD Embeddables](https://github.com/biberlabs/ddd-embeddables) ⭐ 65 | 🐛 3 | 🌐 PHP | 📅 2022-10-10 - A collection of reusable value objects written in PHP and targeting versions 5.6 and above.
 * [Doctrine Encrypted Column](https://github.com/carnage/doctrine-encrypted-column) ⭐ 36 | 🐛 3 | 🌐 PHP | 📅 2017-09-29 - Provides a secure way to encrypt data in doctrine. Framework agnostic, Libsodium.
@@ -93,4 +93,4 @@ To the extent possible under law, [Biberlabs](http://biberlabs.com) has waived a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
