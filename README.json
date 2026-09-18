@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4765,
+            "stars": 4766,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:28:25.571Z",
+    "last_updated": "2026-09-18T19:51:34.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
