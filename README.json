@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Doctrine Database Migrations Library - Official",
-          "description": null,
+          "description": "doctrine/migrations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Doctrine2 Behavioral Extensions",
-          "description": null,
+          "description": "doctrine-extensions/DoctrineExtensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "Doctrine2 Behaviors",
-          "description": null,
+          "description": "KnpLabs/DoctrineBehaviors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -214,7 +214,7 @@
         {
           "node_type": "item",
           "title": "Sonata Doctrine Extensions",
-          "description": null,
+          "description": "sonata-project/sonata-doctrine-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:24:16.457Z",
+    "last_updated": "2026-10-03T04:45:30.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
