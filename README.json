@@ -37,7 +37,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-29T18:57:25Z",
-            "open_issues": 55,
+            "open_issues": 54,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
             "stars": 4137,
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:10:22.346Z",
+    "last_updated": "2026-10-08T22:17:05.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
