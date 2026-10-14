@@ -40,7 +40,7 @@
             "open_issues": 54,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
-            "stars": 4137,
+            "stars": 4138,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "arrays",
               "doctrine",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:55:19.354Z",
+    "last_updated": "2026-10-14T20:51:54.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
