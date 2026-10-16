@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "arrays",
               "doctrine",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:27:26.087Z",
+    "last_updated": "2026-10-16T20:00:49.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
