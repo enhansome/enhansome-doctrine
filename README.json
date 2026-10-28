@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-09T05:55:29Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4759,
+            "stars": 4758,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -40,7 +40,7 @@
             "open_issues": 55,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
-            "stars": 4132,
+            "stars": 4131,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -67,7 +67,7 @@
             "open_issues": 41,
             "owner": "KnpLabs",
             "repo": "DoctrineBehaviors",
-            "stars": 919,
+            "stars": 918,
             "topics": [
               "behavior",
               "doctrine",
@@ -95,7 +95,7 @@
             "open_issues": 11,
             "owner": "ramsey",
             "repo": "uuid-doctrine",
-            "stars": 902,
+            "stars": 901,
             "topics": [
               "dbal",
               "doctrine",
@@ -255,7 +255,7 @@
             "open_issues": 9,
             "owner": "opsway",
             "repo": "doctrine-dbal-postgresql",
-            "stars": 163,
+            "stars": 162,
             "topics": [
               "dbal",
               "doctrine",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:25:48.116Z",
+    "last_updated": "2026-10-28T21:49:12.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
@@ -380,7 +380,7 @@
       "open_issues": 0,
       "owner": "biberlabs",
       "repo": "awesome-doctrine",
-      "stars": 269,
+      "stars": 268,
       "topics": [
         "awesome",
         "awesome-list",
