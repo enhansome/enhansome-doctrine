@@ -19,7 +19,7 @@
             "open_issues": 142,
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4758,
+            "stars": 4759,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -63,7 +63,7 @@
             "id": 3671952,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-01-23T08:13:42Z",
+            "last_commit": "2026-10-29T12:13:47Z",
             "open_issues": 41,
             "owner": "KnpLabs",
             "repo": "DoctrineBehaviors",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:49:12.232Z",
+    "last_updated": "2026-10-29T21:55:56.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
