@@ -37,7 +37,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-29T18:57:25Z",
-            "open_issues": 55,
+            "open_issues": 54,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
             "stars": 4131,
@@ -95,7 +95,7 @@
             "open_issues": 11,
             "owner": "ramsey",
             "repo": "uuid-doctrine",
-            "stars": 901,
+            "stars": 900,
             "topics": [
               "dbal",
               "doctrine",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:34:42.291Z",
+    "last_updated": "2026-11-01T21:19:15.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
