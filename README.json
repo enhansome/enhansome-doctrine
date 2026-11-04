@@ -15,8 +15,8 @@
             "id": 576099,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:16:17Z",
-            "open_issues": 142,
+            "last_commit": "2026-11-04T15:08:05Z",
+            "open_issues": 144,
             "owner": "doctrine",
             "repo": "migrations",
             "stars": 4759,
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:27:04.088Z",
+    "last_updated": "2026-11-04T22:45:21.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
