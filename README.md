@@ -58,11 +58,11 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Related Projects
 
-* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,761 | 🐛 146 | 🌐 PHP | 📅 2026-11-04
-* [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions) ⭐ 4,132 | 🐛 54 | 🌐 PHP | 📅 2026-09-29
-* [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors) ⭐ 918 | 🐛 41 | 🌐 PHP | 📅 2026-10-29
-* [Doctrine UUID](https://github.com/ramsey/uuid-doctrine) ⭐ 900 | 🐛 11 | 🌐 PHP | 📅 2024-08-26 - Allow the use of a ramsey/uuid UUID as Doctrine field type.
-* [PostgreSQL enhancements for Doctrine2](https://github.com/martin-georgiev/postgresql-for-doctrine) ⭐ 463 | 🐛 11 | 🌐 PHP | 📅 2026-11-09 - Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
+* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,759 | 🐛 146 | 🌐 PHP | 📅 2026-11-04
+* [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions) ⭐ 4,131 | 🐛 55 | 🌐 PHP | 📅 2026-09-29
+* [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors) ⭐ 919 | 🐛 41 | 🌐 PHP | 📅 2026-10-29
+* [Doctrine UUID](https://github.com/ramsey/uuid-doctrine) ⭐ 901 | 🐛 11 | 🌐 PHP | 📅 2024-08-26 - Allow the use of a ramsey/uuid UUID as Doctrine field type.
+* [PostgreSQL enhancements for Doctrine2](https://github.com/martin-georgiev/postgresql-for-doctrine) ⭐ 464 | 🐛 11 | 🌐 PHP | 📅 2026-11-09 - Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
 * [Doctrine Specification](https://github.com/Happyr/Doctrine-Specification) ⭐ 449 | 🐛 17 | 🌐 PHP | 📅 2026-07-28 - Gives you a new way for writing queries
 * [Doctrine Spesification](https://github.com/Happyr/Doctrine-Specification) ⭐ 449 | 🐛 17 | 🌐 PHP | 📅 2026-07-28 - This library gives you a new way for writing queries. Using the Specification pattern you will get small Specification classes that are highly reusable.
 * [Doctrine2 Spatial](https://github.com/creof/doctrine2-spatial) ⭐ 273 | 🐛 52 | 🌐 PHP | 📅 2026-07-02 - Multi-platform support for spatial types and functions
