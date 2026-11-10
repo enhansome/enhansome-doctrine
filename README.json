@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-04T15:08:05Z",
-            "open_issues": 145,
+            "open_issues": 146,
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4760,
+            "stars": 4761,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -121,8 +121,8 @@
             "id": 69656744,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-24T22:49:28Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-09T02:14:34Z",
+            "open_issues": 11,
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
             "stars": 463,
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:17:37.601Z",
+    "last_updated": "2026-11-10T00:48:11.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
