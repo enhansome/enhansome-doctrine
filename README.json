@@ -15,11 +15,11 @@
             "id": 576099,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-04T15:08:05Z",
+            "last_commit": "2026-11-12T22:23:07Z",
             "open_issues": 146,
             "owner": "doctrine",
             "repo": "migrations",
-            "stars": 4759,
+            "stars": 4758,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -40,7 +40,7 @@
             "open_issues": 55,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
-            "stars": 4131,
+            "stars": 4129,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -95,7 +95,7 @@
             "open_issues": 11,
             "owner": "ramsey",
             "repo": "uuid-doctrine",
-            "stars": 901,
+            "stars": 900,
             "topics": [
               "dbal",
               "doctrine",
@@ -164,7 +164,7 @@
             "open_issues": 17,
             "owner": "Happyr",
             "repo": "Doctrine-Specification",
-            "stars": 449,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -185,7 +185,7 @@
             "open_issues": 17,
             "owner": "Happyr",
             "repo": "Doctrine-Specification",
-            "stars": 449,
+            "stars": 448,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -206,7 +206,7 @@
             "open_issues": 52,
             "owner": "creof",
             "repo": "doctrine2-spatial",
-            "stars": 273,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:36:37.642Z",
+    "last_updated": "2026-11-12T22:49:25.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
