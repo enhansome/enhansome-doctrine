@@ -58,7 +58,7 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Related Projects
 
-* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,758 | 🐛 148 | 🌐 PHP | 📅 2026-11-12
+* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,757 | 🐛 148 | 🌐 PHP | 📅 2026-11-12
 * [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions) ⭐ 4,129 | 🐛 56 | 🌐 PHP | 📅 2026-09-29
 * [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors) ⭐ 919 | 🐛 41 | 🌐 PHP | 📅 2026-10-29
 * [Doctrine UUID](https://github.com/ramsey/uuid-doctrine) ⭐ 899 | 🐛 11 | 🌐 PHP | 📅 2024-08-26 - Allow the use of a ramsey/uuid UUID as Doctrine field type.
@@ -93,4 +93,4 @@ To the extent possible under law, [Biberlabs](http://biberlabs.com) has waived a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
