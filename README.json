@@ -40,7 +40,7 @@
             "open_issues": 56,
             "owner": "doctrine-extensions",
             "repo": "DoctrineExtensions",
-            "stars": 4129,
+            "stars": 4130,
             "topics": [
               "doctrine",
               "doctrine-odm-mongodb",
@@ -121,7 +121,7 @@
             "id": 69656744,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-11T19:59:46Z",
+            "last_commit": "2026-11-15T20:53:28Z",
             "open_issues": 10,
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
@@ -223,7 +223,7 @@
             "id": 2318793,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-05-03T03:10:14Z",
+            "last_commit": "2026-11-15T10:22:11Z",
             "open_issues": 2,
             "owner": "sonata-project",
             "repo": "sonata-doctrine-extensions",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:38:13.542Z",
+    "last_updated": "2026-11-15T21:57:48.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
