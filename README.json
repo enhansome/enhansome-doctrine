@@ -121,11 +121,11 @@
             "id": 69656744,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-19T21:28:01Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-20T00:51:46Z",
+            "open_issues": 12,
             "owner": "martin-georgiev",
             "repo": "postgresql-for-doctrine",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "arrays",
               "doctrine",
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:41:22.922Z",
+    "last_updated": "2026-11-20T23:14:54.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
