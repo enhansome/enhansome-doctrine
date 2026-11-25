@@ -15,8 +15,8 @@
             "id": 576099,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-22T12:41:45Z",
-            "open_issues": 144,
+            "last_commit": "2026-11-24T21:59:29Z",
+            "open_issues": 141,
             "owner": "doctrine",
             "repo": "migrations",
             "stars": 4755,
@@ -206,7 +206,7 @@
             "open_issues": 52,
             "owner": "creof",
             "repo": "doctrine2-spatial",
-            "stars": 273,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:10.211Z"
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:25:09.422Z",
+    "last_updated": "2026-11-25T01:29:47.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome Doctrine 2 ORM related libraries, resources and shiny things.",
