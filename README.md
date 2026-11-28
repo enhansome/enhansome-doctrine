@@ -58,9 +58,9 @@ A curated list of amazingly awesome Doctrine ORM libraries, resources and shiny 
 
 ## Related Projects
 
-* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,755 | 🐛 143 | 🌐 PHP | 📅 2026-11-24
-* [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions) ⭐ 4,129 | 🐛 59 | 🌐 PHP | 📅 2026-11-23
-* [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors) ⭐ 917 | 🐛 42 | 🌐 PHP | 📅 2026-10-29
+* [Doctrine Database Migrations Library - Official](https://github.com/doctrine/migrations) ⭐ 4,756 | 🐛 142 | 🌐 PHP | 📅 2026-11-27
+* [Doctrine2 Behavioral Extensions](https://github.com/Atlantic18/DoctrineExtensions) ⭐ 4,130 | 🐛 60 | 🌐 PHP | 📅 2026-11-23
+* [Doctrine2 Behaviors](https://github.com/KnpLabs/DoctrineBehaviors) ⭐ 917 | 🐛 41 | 🌐 PHP | 📅 2026-11-27
 * [Doctrine UUID](https://github.com/ramsey/uuid-doctrine) ⭐ 899 | 🐛 11 | 🌐 PHP | 📅 2024-08-26 - Allow the use of a ramsey/uuid UUID as Doctrine field type.
 * [PostgreSQL enhancements for Doctrine2](https://github.com/martin-georgiev/postgresql-for-doctrine) ⭐ 464 | 🐛 11 | 🌐 PHP | 📅 2026-11-23 - Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
 * [Doctrine Specification](https://github.com/Happyr/Doctrine-Specification) ⭐ 449 | 🐛 17 | 🌐 PHP | 📅 2026-07-28 - Gives you a new way for writing queries
@@ -93,4 +93,4 @@ To the extent possible under law, [Biberlabs](http://biberlabs.com) has waived a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
